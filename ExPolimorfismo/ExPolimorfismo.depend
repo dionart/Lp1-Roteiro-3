@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1568001906 source:c:\users\arthur niodizeo\documents\expolimorfismo\main.cpp
+	<iostream>
+	"Medico.h"
+	"Oftamologista.h"
+	<iostream>
+
+1568001569 c:\users\arthur niodizeo\documents\expolimorfismo\include\medico.h
+	<iostream>
+
+1568001561 c:\users\arthur niodizeo\documents\expolimorfismo\include\oftamologista.h
+	"Medico.h"
+
+1568001561 source:c:\users\arthur niodizeo\documents\expolimorfismo\src\medico.cpp
+	"Medico.h"
+
+1568001666 source:c:\users\arthur niodizeo\documents\expolimorfismo\src\oftamologista.cpp
+	"Oftamologista.h"
+
