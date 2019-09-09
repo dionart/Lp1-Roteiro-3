@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1567996875 source:c:\users\arthur niodizeo\documents\conta\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupança.h"
+
+1567997415 source:c:\users\arthur niodizeo\documents\conta\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1567997415 c:\users\arthur niodizeo\documents\conta\include\contaespecial.h
+	"ContaCorrente.h"
+
+1567995964 source:c:\users\arthur niodizeo\documents\conta\src\conta.cpp
+	"Conta.h"
+
+1567991434 c:\users\arthur niodizeo\documents\conta\include\conta.h
+	<iostream>
+
+1567993856 c:\users\arthur niodizeo\documents\conta\include\contacorrente.h
+	"Conta.h"
+
+1567994695 source:c:\users\arthur niodizeo\documents\conta\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1567995173 source:c:\users\arthur niodizeo\documents\conta\src\poupança.cpp
+	"Poupança.h"
+
+1567993035 c:\users\arthur niodizeo\documents\conta\include\poupança.h
+	"Conta.h"
+
