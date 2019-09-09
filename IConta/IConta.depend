@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1566353982 source:c:\users\arthur niodizeo\documents\iconta\src\contaespecial.cpp
+	"ContaEspecial.h"
+	"Conta.h"
+
+1566353982 c:\users\arthur niodizeo\documents\iconta\include\contaespecial.h
+	"Conta.h"
+
+1566353982 c:\users\arthur niodizeo\documents\iconta\include\conta.h
+	"IConta.h"
+	<string>
+
+1566361336 c:\users\arthur niodizeo\documents\iconta\include\iconta.h
+	"SaldoNaoDisponivelException.h"
+
+1566353982 source:c:\users\arthur niodizeo\documents\iconta\src\iconta.cpp
+	"IConta.h"
+
+1566362039 c:\users\arthur niodizeo\documents\iconta\include\saldonaodisponivelexception.h
+	<exception>
+	<iostream>
+
+1566362003 source:c:\users\arthur niodizeo\documents\iconta\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+	"SaldoNaoDisponivelException.h"
+
+1566361942 source:c:\users\arthur niodizeo\documents\iconta\src\conta.cpp
+	"Conta.h"
+	"IConta.h"
+	<string>
+
+1566361607 source:c:\users\arthur niodizeo\documents\iconta\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+
+1566353982 source:c:\users\arthur niodizeo\desktop\lp1lista2\iconta\src\contaespecial.cpp
+	"ContaEspecial.h"
+	"Conta.h"
+
+1566353982 c:\users\arthur niodizeo\desktop\lp1lista2\iconta\include\contaespecial.h
+	"Conta.h"
+
+1566353982 c:\users\arthur niodizeo\desktop\lp1lista2\iconta\include\conta.h
+	"IConta.h"
+	<string>
+
+1566361336 c:\users\arthur niodizeo\desktop\lp1lista2\iconta\include\iconta.h
+	"SaldoNaoDisponivelException.h"
+
+1566362039 c:\users\arthur niodizeo\desktop\lp1lista2\iconta\include\saldonaodisponivelexception.h
+	<exception>
+	<iostream>
+
+1566353982 source:c:\users\arthur niodizeo\desktop\lp1lista2\iconta\src\iconta.cpp
+	"IConta.h"
+
+1566361607 source:c:\users\arthur niodizeo\desktop\lp1lista2\iconta\src\saldonaodisponivelexception.cpp
+	"SaldoNaoDisponivelException.h"
+
+1568000186 source:c:\users\arthur niodizeo\desktop\lp1lista2\iconta\src\conta.cpp
+	"Conta.h"
+	"IConta.h"
+	<string>
+
+1568000199 source:c:\users\arthur niodizeo\desktop\lp1lista2\iconta\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+	"SaldoNaoDisponivelException.h"
+
