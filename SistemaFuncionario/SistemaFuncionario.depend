@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1567999573 source:c:\users\arthur niodizeo\documents\sistemafuncionario\main.cpp
+	<iostream>
+	"SistemaGerenciaFolha.h"
+
+1566444678 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\assalariado.cpp
+	"Assalariado.h"
+
+1566439309 c:\users\arthur niodizeo\documents\sistemafuncionario\include\assalariado.h
+	"Funcionario.h"
+	<iostream>
+
+1566440701 c:\users\arthur niodizeo\documents\sistemafuncionario\include\funcionario.h
+	<iostream>
+
+1566439309 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\comissionado.cpp
+	"Comissionado.h"
+
+1566439309 c:\users\arthur niodizeo\documents\sistemafuncionario\include\comissionado.h
+	"Funcionario.h"
+
+1566439485 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\horista.cpp
+	"Horista.h"
+
+1566439309 c:\users\arthur niodizeo\documents\sistemafuncionario\include\horista.h
+	"Funcionario.h"
+
+1566444180 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\funcionario.cpp
+	"Funcionario.h"
+
+1567999521 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+
+1567999514 c:\users\arthur niodizeo\documents\sistemafuncionario\include\sistemagerenciafolha.h
+	"Funcionario.h"
+	"Assalariado.h"
+	"Horista.h"
+	"Comissionado.h"
+	"FuncionarioNaoExisteException.h"
+	"OrcamentoEstouradoException.h"
+
+1566446058 c:\users\arthur niodizeo\documents\sistemafuncionario\include\funcionarionaoexisteexception.h
+	<exception>
+	<iostream>
+
+1566446123 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\funcionarionaoexisteexception.cpp
+	"FuncionarioNaoExisteException.h"
+
+1567999196 source:c:\users\arthur niodizeo\documents\sistemafuncionario\src\orcamentoestouradoexception.cpp
+	"OrcamentoEstouradoException.h"
+
+1567999169 c:\users\arthur niodizeo\documents\sistemafuncionario\include\orcamentoestouradoexception.h
+	<iostream>
+
